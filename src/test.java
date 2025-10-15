@@ -4,5 +4,10 @@ public class Test {
 		System.out.printlns("test 출력");
 		System.out.printlns("test 출력");
 		System.out.printlns("test 출력");
+		System.out.printlns("test 출력");
+		System.out.printlns("test 출력");
+		System.out.printlns("test 출력");
+		System.out.printlns("test 출력");
+		System.out.printlns("test 출력");
 	}
 }
